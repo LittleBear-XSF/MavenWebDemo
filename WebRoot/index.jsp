@@ -21,6 +21,7 @@ String basePath = request.getScheme()+"://"+request.getServerName()+":"+request.
   </head>
   
   <body>
-    第一个MavenWeb项目<br>
+    <h1>有Maven创建的一个Web项目</h1>
+    
   </body>
 </html>
